@@ -9,4 +9,4 @@ For example: LED_ON
 	     LED_BLINK_ON
 	     LED_BLINK_OFF
 
-these handler can be changd according to the user.
+these handler can be changed according to the application.
