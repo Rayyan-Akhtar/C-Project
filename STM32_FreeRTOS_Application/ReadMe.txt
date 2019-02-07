@@ -1,0 +1,1 @@
+This is a simple project using STM32F446RE with FreeRTOS.
